@@ -74,6 +74,8 @@ Ferramenta visual para "construir o pensamento"! Serve para qualquer contexto on
   
   
   Aluna: Daniela Velter
+  
+  
   Instrutora: Carolina Santana da DIO
 
 
